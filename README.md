@@ -38,6 +38,8 @@ The service infrastructure (instance per thread) calls the third party APIs (ema
 
 I left out due time constraints: security (OAuth2? datastore security?), attachments on emails, more coverage, include more service providers, simple UI, a more sophisticated fail-over algorithm, datastore for emails, and a queuing component though.
 
+Parts of the code to get the clients for Amazon SES and SendGrid are based on the basic examples provided by Amazon and SendGrid.
+
 # Link to public profile:
 
 www.linkedin.com/in/cervantesivan
