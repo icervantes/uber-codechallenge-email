@@ -28,7 +28,7 @@ Standard flow:
 10. No security mechanism implemented for the client (login). 
 
 # Solution 
-The App focuses on back-end and it has a RESTful API to call the service.
+The App focuses on back-end and it has a RESTful API to call the service (Java).
 Reasoning behind your technical choices, including architectural. Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project.
 
 # Design
@@ -47,6 +47,8 @@ www.linkedin.com/in/cervantesivan
 https://drive.google.com/file/d/0B-9ucw-8TsfzZGZUWnlLSTMtOUk/view?usp=sharing
 
 # Link to to the hosted application
+
+Jelastic
 
 http://icervantes.whelastic.net/
 
